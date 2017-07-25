@@ -1,0 +1,15 @@
+.frontpage_background01 {
+    position: fixed;
+    top: 20;
+    right: inherit;
+    left: inherit;
+    overflow: scroll;
+    z-index: auto
+}
+
+.frontpage_background01__video {
+    position: absolute;
+    top: 20;
+    left: inherit;
+    width: 50%
+}
